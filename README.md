@@ -5,7 +5,7 @@
 I personally used this OS during my journey through cancer, and it helped me immensely. I might be long gone when you read this page, but my esoteric presence will remain with you through the esoteric portal of this OS.
 
 This OS focuses on:
-- Energy Healing with Humming Mantra
+- Energy Aligning with Humming Mantra
 - Reducing Anxiety with Practical Breathwork
 - Emitting Reiki Energy through the Esoteric Portal (24/7)
 - Helping Build Mindful Habits
