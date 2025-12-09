@@ -1,12 +1,12 @@
-# HealSpace OS @ Github Cloud
+# HealSpace OS @ GitHub Cloud
 ### Launch the Cloud Operating System <a href="https://healspaceos-wgl.pages.dev">here (for Phone)</a>
 #### HealSpace OS is the first Cloud Operating System dedicated to people with illness.
 
-I personally used this OS during my journey through cancer, and it helped me immensely. I might be long gone when you read this page, but my esoteric presence will remains with you through the esoteric portal of this OS.
+I personally used this OS during my journey through cancer, and it helped me immensely. I might be long gone when you read this page, but my esoteric presence will remain with you through the esoteric portal of this OS.
 
 This OS focuses on:
 - Energy Healing with Humming Mantra
-- Reducing Anxiety with a Clean Minimalist Monochrome Interface
+- Reducing Anxiety with Practical Breathwork
 - Emitting Reiki Energy through the Esoteric Portal (24/7)
 - Helping Build Mindful Habits
 
