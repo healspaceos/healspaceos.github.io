@@ -14,4 +14,4 @@ I hope this OS can help you get better, or at least assist you in preparing for 
 
 <i>With Love,</i>
 <div><img src="hartadi-beard-blackwhite.jpg" widt="150" height="150" style="border-radius:50%;object-fit:cover;border:4px solid #fff;"></div>
-<u>Hartadi</u>
+<i>Hartadi</i>
