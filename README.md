@@ -1,5 +1,5 @@
 # HealSpace OS @ GitHub Cloud
-<img src="healspace-os-mockup.png">
+<div><img src="healspace-os-mockup.png"></div>
 ### Launch the Cloud Operating System <a href="https://healspaceos.github.io/HOSWebGL/">here (for Phone)</a>
 #### HealSpace OS is the first Cloud Operating System dedicated to people with illness.
 
