@@ -1,4 +1,5 @@
 # HealSpace OS @ GitHub Cloud
+<img src="healspace-os-mockup.png">
 ### Launch the Cloud Operating System <a href="https://healspaceos.github.io/HOSWebGL/">here (for Phone)</a>
 #### HealSpace OS is the first Cloud Operating System dedicated to people with illness.
 
@@ -15,7 +16,7 @@ I hope this OS can help you get better, or at least assist you in preparing for 
 I chose to host this website and OS on GitHub to ensure its long-term preservation. As I may no longer be around to handle periodic domain and hosting renewals, this platform ensures that HealSpace OS remains accessible even in my absence.
 
 <i>With Love,</i>
-<div><img src="hartadi-beard-blackwhite.jpg" widt="150" height="150" style="border-radius:50%;object-fit:cover;border:4px solid #fff;"></div>
+<div><img src="hartadi-beard-blackwhite.jpg" width="150" height="150" style="border-radius:50%;object-fit:cover;border:4px solid #fff;"></div>
 <i>Hartadi</i>
 <hr>
 <i>Last Update 2025-12-09</i>
