@@ -10,7 +10,7 @@
 ### Download version Alpha 0.1.5 for Android here : https://github.com/healspaceos/healspaceos.github.io/releases/tag/healspaceos
 #### HealSpace OS is a specialized operating system dedicated to those with unique needs: the neurodivergent, those recovering from illness, individuals undergoing a spiritual shift, or anyone seeking to detach from tech-giant disruptions.
 
-I personally used this OS during my journey through chronic illness, and it helped me immensely. While I hope to have more time left, I might be long gone by the time you read this. My hope is that this GitHub page will remain as a testament to my intent: helping you through your hardest times.
+I personally used this OS during my journey through chronic illness, and it helped me immensely. While I hope to have more time left, I might be long gone by the time you read this. My hope is that this GitHub page carry the esoteric will of my intent: helping you through your hardest times.
 
 This OS focuses on:
 - Aligning Energy with Humming Mantra
