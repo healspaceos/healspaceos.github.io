@@ -32,6 +32,7 @@
 
 
 <!--### Launch the Cloud Operating System <a href="https://healspaceos.github.io/HOSWebGL/">here (for Phone)</a>-->
+### Download version Alpha 0.1.5 for Android here : https://github.com/healspaceos/healspaceos.github.io/releases/tag/healspaceos
 #### HealSpace OS is the first Cloud Operating System dedicated to people with illness.
 
 I personally used this OS during my journey through chronic ilness, and it helped me immensely. I might be long gone when you read this page, but i hope my esoteric presence will remain with you through the esoteric portal of this OS.
