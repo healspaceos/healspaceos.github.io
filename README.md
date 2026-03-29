@@ -1,6 +1,5 @@
 # HealSpace OS @ GitHub Cloud
-(this screenshot is initial version of HealSpace OS)
-<div><img src="healspace-os-mockup.png"></div>
+<!--<div><img src="healspace-os-mockup.png"></div>-->
 <div align="center">
     <div style="
         width: 320px; 
