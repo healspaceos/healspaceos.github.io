@@ -1,47 +1,23 @@
 # HealSpace OS @ GitHub Cloud
 <!--<div><img src="healspace-os-mockup.png"></div>-->
 <div align="center">
-    <div style="
-        width: 320px; 
-        height: auto; 
-        padding: 12px; 
-        background: #1a1a1a; 
-        border-radius: 40px; 
-        border: 4px solid #333; 
-        box-shadow: 0 20px 40px rgba(0,0,0,0.5);
-        display: inline-block;
-        line-height: 0;
-    ">
-        <div style="
-            border-radius: 30px; 
-            overflow: hidden; 
-            border: 2px solid #000;
-        ">
-            <img src="healspace-os-shotnew.jpg" alt="HealSpace OS Screenshot" style="width: 100%; display: block;">
-        </div>
-        
-        <div style="
-            width: 60px; 
-            height: 4px; 
-            background: #333; 
-            margin: 10px auto 0; 
-            border-radius: 2px;
-        "></div>
-    </div>
-</div>
+<div style="width: 320px; height: auto; padding: 12px; background: #1a1a1a; border-radius: 40px; border: 4px solid #333; box-shadow: 0 20px 40px rgba(0,0,0,0.5); display: inline-block; line-height: 0;">
+<div style="border-radius: 30px; overflow: hidden; border: 2px solid #000;"><img src="healspace-os-shotnew.jpg" alt="HealSpace OS Screenshot" style="width: 100%; display: block;"></div>
+<div style="width: 60px; height: 4px; background: #333; margin: 10px auto 0; border-radius: 2px;"></div></div></div>
 
 
 <!--### Launch the Cloud Operating System <a href="https://healspaceos.github.io/HOSWebGL/">here (for Phone)</a>-->
 ### Download version Alpha 0.1.5 for Android here : https://github.com/healspaceos/healspaceos.github.io/releases/tag/healspaceos
-#### HealSpace OS is the first Cloud Operating System dedicated to people with illness.
+#### HealSpace OS is a specialized operating system dedicated to those with unique needs: the neurodivergent, those recovering from illness, individuals undergoing a spiritual shift, or anyone seeking to detach from tech-giant disruptions.
 
-I personally used this OS during my journey through chronic ilness, and it helped me immensely. I might be long gone when you read this page, but i hope my esoteric presence will remain with you through the esoteric portal of this OS.
+I personally used this OS during my journey through chronic illness, and it helped me immensely. While I hope to have more time left, I might be long gone by the time you read this. My hope is that this GitHub page will remain as a testament to my intent: helping you through your hardest times.
 
 This OS focuses on:
 - Aligning Energy with Humming Mantra
 - Reducing Anxiety with Practical Breathwork and Visual Stroboscopic Brainwave Stimulation (HealPhotic)
 - Emitting Reiki Energy through the Esoteric Portal
 - Helping Build Mindful Habits
+- And many more you can explore
 
 Read more about my research on Visual Stroboscopic Brainwave Stimulation (HealPhotic) here in https://healphotic-research-healspaceos.pages.dev or http://healphotic.research.hos.han.ovh
 
