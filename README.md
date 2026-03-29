@@ -39,9 +39,11 @@ I personally used this OS during my journey through chronic ilness, and it helpe
 
 This OS focuses on:
 - Aligning Energy with Humming Mantra
-- Reducing Anxiety with Practical Breathwork
+- Reducing Anxiety with Practical Breathwork and Visual Stroboscopic Brainwave Stimulation (HealPhotic)
 - Emitting Reiki Energy through the Esoteric Portal
 - Helping Build Mindful Habits
+
+Read more about my research on Visual Stroboscopic Brainwave Stimulation (HealPhotic) here in https://healphotic-research-healspaceos.pages.dev or http://healphotic.research.hos.han.ovh
 
 I hope this OS can help you get better, or at least assist you in preparing for the inevitable.
 
