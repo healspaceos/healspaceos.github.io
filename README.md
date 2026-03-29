@@ -50,4 +50,4 @@ I chose to host this website and OS on GitHub to ensure its long-term preservati
 <div><img src="hartadi-beard-blackwhite.jpg" width="150" height="150" style="border-radius:50%;object-fit:cover;border:4px solid #fff;"></div>
 <i>Hartadi</i>
 <hr>
-<i>Last Update 2025-12-22</i>
+<i>Last Update 2026-03-29</i>
