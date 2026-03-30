@@ -30,3 +30,10 @@ I chose to host this website and OS on GitHub to ensure its long-term preservati
 <i>Hartadi</i>
 <hr>
 <i>Last Update 2026-03-29</i>
+<hr>
+#### This is screenshot of HealSpace OS Bubble Ground Service
+Wrapping many HealSpace OS functions in Notification Bar for easier access from any active app.
+<div align="center">
+<div style="width: 320px; height: auto; padding: 12px; background: #1a1a1a; border-radius: 40px; border: 4px solid #333; box-shadow: 0 20px 40px rgba(0,0,0,0.5); display: inline-block; line-height: 0;">
+<div style="border-radius: 30px; overflow: hidden; border: 2px solid #000;"><img src="healspace-os-bgs-shot.jpg" alt="HealSpace OS Screenshot" style="width: 100%; display: block;"></div>
+<div style="width: 60px; height: 4px; background: #333; margin: 10px auto 0; border-radius: 2px;"></div></div></div>
