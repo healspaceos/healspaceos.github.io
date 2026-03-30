@@ -64,7 +64,7 @@ Stroboscopic Visual Brainwave Entrainment using very affordable VR-Box (Google C
 <div style="width: 60px; height: 4px; background: #333; margin: 10px auto 0; border-radius: 2px;"></div></div></div>
 <hr>
 
-#### Screenshot of HealSpace OS Bubble Ground Service
+#### HealSpace OS Bubble Ground Service
 Wrapping many HealSpace OS functions in Notification Bar for easier access from any active app.
 <div align="center">
 <div style="width: 320px; height: auto; padding: 12px; background: #1a1a1a; border-radius: 40px; border: 4px solid #333; box-shadow: 0 20px 40px rgba(0,0,0,0.5); display: inline-block; line-height: 0;">
