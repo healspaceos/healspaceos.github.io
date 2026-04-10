@@ -12,7 +12,7 @@
 
 I personally used this OS throughout my journey with chronic illness, and it has helped me immensely. While I hope for more time, I realize I might be long gone by the time you read this. My hope is that this GitHub page carries the esoteric will of my intent: to help you through your hardest times.
 
-Life and the world don't stop for our sickness. At some point, we must maintain a minimum level of functionality; otherwise, we risk becoming a burden to our families—whether they say it or not, we can see it in their eyes. They care, yes, but they have their own battles to fight. We need a system to help us remain functional.
+Life and the world don't stop for our sickness. At some point, we must maintain a minimum level of functionality; otherwise, we risk becoming a burden to our families... whether they say it or not, we can see it in their eyes. They care, yes, but they have their own battles to fight. We need a system to help us remain functional.
 
 This ongoing experience is why I developed HealSpace OS—first for myself, and now, perhaps, to be of service to you. Will I heal myself? Will I ensure my cancer doesn't relapse? I don't know. But I do know that I must stay functional and continue to contribute to the greater good.
 
